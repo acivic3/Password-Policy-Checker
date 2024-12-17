@@ -49,7 +49,7 @@ Messages indicating whether the password is valid or not, including specific rea
 
 **Purpose**: To test that the program rejects spaces and validates the minimum length of 8 characters.
 
-![Test Case 1](screenshots/test_case_1.png)
+![Test Case 1](PPC%20-%20Test%20Case%201.png)
 ---
 
 ### Test Case 2
@@ -62,7 +62,7 @@ Messages indicating whether the password is valid or not, including specific rea
 
 **Purpose**: To test the maximum password length requirement.
 
-![Test Case 2](screenshots/test_case_2.png)
+![Test Case 2](PPC%20-%20Test%20Case%202.png)
 ---
 
 ### Test Case 3
@@ -75,5 +75,5 @@ Messages indicating whether the password is valid or not, including specific rea
 
 **Purpose**: To test the digit requirement.
 
-![Test Case 3](screenshots/test_case_3.png)
+![Test Case 3](PPC%20-%20Test%20Case%203.png)
 
